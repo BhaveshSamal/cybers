@@ -7,3 +7,7 @@ Common Password Detection: Checks passwords against a database of commonly used 
 Entropy Calculation: Measures password entropy to ensure randomness and unpredictability.
 User-Friendly Interface: Simple and intuitive design for ease of use.
 Offline Capability: Works without an internet connection, ensuring privacy and security.
+
+Mentor Details:
+Name: Muzammil Ahmed
+Contact: +91 96401 28015 
